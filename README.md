@@ -1,1 +1,10 @@
-# AuthAndTask
+### API = 
+## endpoints
+##$ Auth
+- api/auth/signup [POST] 
+- api/auth/signin [POST]
+##$ Task
+- api/task [GET]
+- api/task [POST]
+- api/task/:id [PATCH]
+- api/task/:id [DELETE]
